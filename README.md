@@ -4,7 +4,6 @@
 
 - <b>Microsoft Azure</b>
   - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/HHamzaChy06/azure-setup)
-  - [Azure: Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/HHamzaChy06/azure-network-protocols)
 - <b>osTicket (Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/HHamzaChy06/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/HHamzaChy06/post-install-config)
