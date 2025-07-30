@@ -6,7 +6,7 @@
   - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/HHamzaChy06/azure-setup)
 - <b>osTicket (Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/HHamzaChy06/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/HHamzaChy06/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/HHamzaChy06/osticker-postinstall)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/HHamzaChy06/ticket-lifecycle)    
 - <b>Active Directory</b>
   - [Active Directory: Preparing the Infrastructure in Azure](https://github.com/HHamzaChy06/preparing-ad-inf-azure)
