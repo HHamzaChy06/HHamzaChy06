@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Hamza, an IT Professional👋</h1> 
+<h1>Hi there, I'm Hamza, a Front End Developer</h1> 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
