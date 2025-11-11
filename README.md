@@ -1,6 +1,10 @@
 <h1>Hi there, I'm Hamza, a Front End Developer</h1> 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>FrontEnd Projects:</h2>
+
+
+
+<h2>Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Azure: Setting up Azure (Resource Group, Virtual Network, Subnet, Virtual Machines)](https://github.com/HHamzaChy06/azure-setup)
