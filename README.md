@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Hamza, a Front End Developer</h1> 
 
 <h2>FrontEnd Projects:</h2>
-- <b>Rental Car Site</b>
+
   - [Rental Car Site](https://github.com/HHamzaChy06/car-rental)
 
 
