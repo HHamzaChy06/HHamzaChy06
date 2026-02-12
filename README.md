@@ -2,7 +2,7 @@
 
 <h2>FrontEnd Projects:</h2>
 
-  - [Rental Car Site](https://github.com/HHamzaChy06/car-rental)
+  - [Car Rental Site](https://github.com/HHamzaChy06/car-rental)
 
 
 
